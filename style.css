@@ -1,7 +1,7 @@
 .gameBoard {
     width: 500px;
     height: 500px;
-    margin: 40px auto;
+    margin: 10px auto;
     display: grid;
     grid-template-columns: repeat(3, 1fr);
     grid-template-rows: repeat(3, 1fr);
