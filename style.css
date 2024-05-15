@@ -9,8 +9,31 @@
     border: black solid 1px;
     padding: 10px;
     gap: 10px;
+    background-color: #6c757d;
 }
 
 .cell {
     border: black solid 1px;
+    background-color: black;
+}
+
+.d-flex {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.mole {
+    width: 140px;
+    height: 140px;
+    border-radius: 50%;
+    background-image: url("https://www.redwolf.in/image/cache/catalog/stickers/jerry-face-sticker-india-600x800.jpg");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    cursor: pointer;
+}
+
+.mole:hover {
+    box-shadow: 0 0 20px #f6bd0c;
 }
