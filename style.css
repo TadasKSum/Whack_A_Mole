@@ -37,3 +37,7 @@
 .mole:hover {
     box-shadow: 0 0 20px #f6bd0c;
 }
+
+h2 {
+    text-align: center;
+}
